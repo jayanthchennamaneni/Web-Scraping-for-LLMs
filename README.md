@@ -9,7 +9,6 @@ This project is a web scraping tool designed to extract and convert web content 
 - **Web Crawling**: Starts from a specified URL and follows links to gather more pages.
 - **HTML Cleanup**: Removes unnecessary tags such as `<script>`, `<style>`, `<nav>`, `<footer>`, `<form>`, and `<input>`.
 - **Markdown Conversion**: Converts cleaned HTML into Markdown format for easier readability and processing.
-- **Output**: Saves the processed Markdown content to files organized in an output directory.
 
 ## Requirements
 
